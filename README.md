@@ -83,17 +83,18 @@ The goal of this project is to:
 
 ## Repository Structure
 
-![Uploading image.png…]()
+<img width="599" height="938" alt="Screenshot 2026-01-13 194850" src="https://github.com/user-attachments/assets/b3ee43cd-096a-4f81-b4ea-fb2a4035ad54" />
+
 
 
 
 ---
 
-## How to Navigate
+## How to Navigate This Repository
 
-- **Recruiters / Managers** → `reports/Walmart_Business_Insights_Report.pdf`
-- **Stakeholders** → `Walmart_Sales_Analytics_Dashboard.pbix` or `Dashboard_Insights.pdf`
-- **Technical Reviewers** → `sql/` and `notebooks/`
+- **Business Insights & Decision-Making** → `reports/Walmart_Business_Insights_Report.pdf`  
+- **Visual Analytics & Dashboards** → `Walmart_Sales_Analytics_Dashboard.pbix` or `Walmart_Sales_Dashboard_Insights.pdf`  
+- **Technical Analysis & SQL Logic** → `sql/` and `notebooks/`  
 
 ---
 
