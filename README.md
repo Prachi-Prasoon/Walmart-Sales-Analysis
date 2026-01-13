@@ -83,37 +83,8 @@ The goal of this project is to:
 
 ## Repository Structure
 
-Walmart-Sales-Analysis/
-│
-├── data/
-│ ├── raw/
-│ │ └── Walmart.csv
-│ │
-│ └── processed/
-│ └── walmart_featured_data.csv
-│
-├── notebooks/
-│ ├── 01_data_cleaning_feature_engineering.ipynb
-│ ├── 02_sql_integration_analysis.ipynb
-│ └── 03_visual_analysis.ipynb
-│
-├── sql/
-│ ├── 01_basic_data_understanding.sql
-│ ├── 02_customer_payment_insights.sql
-│ ├── 03_product_category_profit_analysis.sql
-│ ├── 04_time_based_sales_trends.sql
-│ ├── 05_advanced_kpis_strategic_insights.sql
-│ └── SQL_queries_merged.sql
-│
-├── dashboards/
-│ ├── Walmart_Sales_Analysis_Dashboard.pbix
-│ └── Dashboard_Insights.pdf
-│ 
-├── reports/
-│ ├── Walmart_Business_Insights_Report.pdf
-│ └── Walmart_SQL_Analysis_Details.pdf
-│
-└── README.md
+![Uploading image.png…]()
+
 
 
 ---
